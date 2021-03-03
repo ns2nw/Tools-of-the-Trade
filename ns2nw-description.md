@@ -1,2 +1,2 @@
 ns2nw-description.md
-link to problem
+https://leetcode.com/problems/two-sum/
