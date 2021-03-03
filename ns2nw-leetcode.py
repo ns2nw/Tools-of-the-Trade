@@ -1,3 +1,6 @@
+#Nandita Sangwan
+#ns2nw
+
 https://leetcode.com/problems/two-sum/
 
 solution:
